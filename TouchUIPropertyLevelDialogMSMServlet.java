@@ -39,7 +39,7 @@ import com.day.cq.wcm.msm.api.MSMNameConstants;
 import com.day.text.Text;
 import com.myorg.cq.commons.Constants;
 import com.myorg.cq.events.touchui.nestedmfm.NestedMfmUtils;
-import com.myorg.cq.servlets.msm.RolloutHierarchicalObj;
+import com.myorg.msm.RolloutHierarchicalObj;
 
 @SlingServlet(resourceTypes = { "sling/servlet/default" }, selectors = { "touchuimsm" }, extensions = { "conf",
 		"json" }, methods = { "POST" })
