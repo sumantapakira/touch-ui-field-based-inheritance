@@ -4,3 +4,4 @@ This is a problem when you do cancel inhitance then as an author you have to can
 inheritance.
 
 This code example helps you to achive this.  
+You have to add granite:data node under the property node of your dialog and then add a string type property "cq-msm-lockable" and value will the name of your property.
