@@ -37,7 +37,7 @@ import com.day.cq.wcm.msm.api.LiveRelationship;
 import com.day.cq.wcm.msm.api.LiveRelationshipManager;
 import com.day.cq.wcm.msm.api.MSMNameConstants;
 import com.day.text.Text;
-import com.zeiss.cq.commons.Constants;
+import com.myorg.cq.commons.Constants;
 import com.myorg.cq.events.touchui.nestedmfm.NestedMfmUtils;
 import com.myorg.cq.servlets.msm.RolloutHierarchicalObj;
 
